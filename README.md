@@ -1,7 +1,7 @@
 # KoED: Korean Benchmark for Culturally Aligned Empathetic Dialogue
 
 ## Introduction
-**KoED** (Korean Benchmark for Culturally Aligned Empathetic Dialogue) is a benchmark dataset constructed by Woojin Lee and Yujin Sim, designed to evaluate and enhance the ability of Large Language Models (LLMs) to generate empathetic dialogues within Korean cultural contexts. Empathy is essential for AI to integrate naturally into human interactions, and KoED overcomes the limitations of existing English-centric datasets (e.g., EmpatheticDialogues) by providing dialogues that reflect Korean culture and emotional expressions.
+**KoED** (Korean Benchmark for Culturally Aligned Empathetic Dialogue) is a benchmark dataset constructed by Woojin Lee and Yujin Sim, designed to evaluate the ability of Large Language Models (LLMs) to generate empathetic dialogues within Korean cultural contexts. Empathy is essential for AI to integrate naturally into human interactions, and KoED overcomes the limitations of existing English-centric datasets (e.g., EmpatheticDialogues) by providing dialogues that reflect Korean culture and emotional expressions.
 
 **Key Objectives**:
 * Evaluate empathetic dialogue generation in Korean
@@ -91,7 +91,7 @@ KoED has been utilized in the following academic papers:
 * **KSC 2024**: "Enhancing Empathetic Response Generation using Kindness-based Large Language Models"
 
 ## Installation and Access
-For inquiries, please contact Woojin Lee (shes100@konkuk.ac.kr).
+For inquiries, please contact Woojin Lee (writerwoody@gmail.com).
 
 ## Contributors
 * **Woojin Lee** (Department of Artificial Intelligence, Konkuk University)
