@@ -77,11 +77,6 @@ KoED can be utilized for the following purposes:
 * **Evaluating Cultural Understanding**: Measuring multilingual LLMs' understanding of Korean culture
 * **Emotion Recognition**: Predicting various emotions in dialogues, including uniquely Korean emotions
 
-**Supported Tasks**:
-* Emotion label prediction
-* Empathetic dialogue generation
-* Cultural appropriateness evaluation
-
 ## Evaluation Rubrics
 Our rubrics for model evaluation:
 * **Explorations (EX)**: How deeply the model explores the conversation partner's situation and emotions
