@@ -81,7 +81,7 @@ Our rubrics for model evaluation:
 * **Cultural Appropriateness (CA)**: How well the model reflects Korean/English cultural contexts, customs, and social norms
 
 ## Related Research
-KoED has been utilized in the following academic papers:
+KoED has been utilized in the following our academic papers:
 * **HCLT-KACL 2024**: "Evaluating Large Language Models on Korean Cultural Understanding in Empathetic Response Generation"
 * **KSC 2024**: "Enhancing Empathetic Response Generation using Kindness-based Large Language Models"
 
