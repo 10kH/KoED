@@ -98,4 +98,5 @@ For inquiries, please contact Woojin Lee (writerwoody@gmail.com).
 KoED is provided under the **CC-BY-SA** (Creative Commons Attribution-ShareAlike) license:
 * **Attribution**: Proper attribution required (e.g., "KoED by Woojin Lee and Yujin Sim")
 * **ShareAlike**: Modifications and distributions must be under the same license
+* **Ownership**: All rights are held by the Konkuk University NLP Lab  
 For more details, refer to the CC-BY-SA license.
